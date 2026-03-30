@@ -33,5 +33,10 @@ body{
         float: left;
     }
     .col-md-25{
+        width: 25%;
+        float: left;
+    }
+
+    @media screen and {
         
     }
