@@ -37,6 +37,17 @@ body{
         float: left;
     }
 
-    @media screen and {
+    @media screen and (min-width: 992px) {
+        body{
+            background-color: gold;
+        }
+        .col-lg-25{
+            width: 25%;
+            float: left;
+        }
+        .col-lg-12.5{
+            width: 12.5%;
+            float: left;
+        }
         
     }
